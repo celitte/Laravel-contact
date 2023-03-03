@@ -3,7 +3,7 @@
 @section('title', 'カリキュラムについて')
 @section('content')
     <section>
-        <h3>準備</h3>
+        <h3>準備中</h3>
         <ul>
             <li>環境構築(sail)</li>
             <li>データベース(phpMyAdmin)</li>
